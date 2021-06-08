@@ -1,0 +1,10 @@
+{
+	ingredientPattern: "L	D",
+	ingredients: {
+		"L": { type: "item", code: "quicklime" },
+		"D": { type: "block", code: "strawbedding" }
+	},
+	width: 1,
+	height: 2,
+	output: { type: "block", code: "plaster-plain", quantity: 8 }
+}
