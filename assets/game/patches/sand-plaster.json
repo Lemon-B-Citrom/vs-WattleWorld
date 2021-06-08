@@ -1,0 +1,8 @@
+[
+    {
+        "op": "add",
+        "path": "/output/quantity",
+        "value": 2,
+        "file": "recipes/grid/plaster/plain.json"
+    }
+]
