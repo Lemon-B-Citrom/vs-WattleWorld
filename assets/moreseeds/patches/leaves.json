@@ -1,0 +1,12 @@
+[
+  { file: "game:blocktypes/plant/leaves", op: "add", path: "/drops/-", value: {
+	  type: "block",
+	  code: "sapling-{wood}-free",
+	  quantity: { avg: 0.25, var: 0 }
+	} },
+  { file: "game:blocktypes/plant/leavesbranchy", op: "add", path: "/drops/-", value: {
+	  type: "block",
+	  code: "sapling-{wood}-free",
+	  quantity: { avg: 0.5, var: 0 }
+	} }
+]

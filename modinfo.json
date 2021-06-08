@@ -1,0 +1,16 @@
+{
+	"type": "content",
+	"modid": "wattleworld",
+	"name": "Wattle World",
+	"version": "1.0",
+	
+	"description": "More ways to craft plaster, each providing more yield.",
+	"website": "https://youtu.be/dQw4w9WgXcQ",
+	"author": "Burktross",
+	
+	"side": "server",
+	"dependencies": {
+		"game": "1.14.10",
+		"survival": "1.14.10"
+	}
+}
