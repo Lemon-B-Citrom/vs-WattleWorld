@@ -13,4 +13,4 @@ Wattle and Daub, referred to as simply "plaster" ingame, as a building material 
 Limestone, can sometimes a chore to find and also a chore to grind (literally), making it a very time instensive material to acquire. Sand being mandatory in the recipes also severely limits plaster's access to players who set up shop in grassy, soil-heavy areas-- the exact places you would expect to see Wattle and Daub structures! It is more economical in every way to just use planks-- but that's very boring.
 
 ## In the future
-Considering making additional wattle and daub blocks that would represent more primitive versions of the material, with untreated, muddy daub and rudimentary timber supports using firewood. This would provide players with a low-tech, but still asthetically pleasing material to build with in T0.
+Considering making additional wattle and daub blocks that would represent more primitive versions of the material, with untreated, muddy daub and rudimentary timber supports using firewood. This would provide players with a low-tech, but still aesthetically pleasing material to build with in T0.
